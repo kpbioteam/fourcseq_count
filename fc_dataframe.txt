@@ -1,0 +1,8 @@
+ viewpoint condition replicate bamFile
+ 1 testdata WE_68h 1 CRM_ap_ApME680_WE_6-8h_1_testdata.bam
+ 2 testdata WE_68h 2 CRM_ap_ApME680_WE_6-8h_2_testdata.bam
+ 3 testdata MESO_68h 1 CRM_ap_ApME680_MESO_6-8h_1_testdata.bam
+ 4 testdata MESO_68h 2 CRM_ap_ApME680_MESO_6-8h_2_testdata.bam
+ 5 testdata WE_34h 1 CRM_ap_ApME680_WE_3-4h_1_testdata.bam
+ 6 testdata WE_34h 2 CRM_ap_ApME680_WE_3-4h_2_testdata.bam
+
